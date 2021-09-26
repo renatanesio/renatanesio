@@ -1,8 +1,8 @@
 ### Renata Nésio
 
-[![renatanesio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=renatanesio)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatanesio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![renatanesio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=renatanesio)](https://github.com/anuraghazra/github-readme-stats)
 
 ![renatanesio's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatanesio&show_icons=true&theme=tokyonight)
 
