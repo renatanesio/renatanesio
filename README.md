@@ -2,7 +2,7 @@
 
 ## 👩🏻‍💻 About Me
 
-- 💻 Optimization intern at [ENACOM](https://www.enacom.com.br/index.html)
+- 💻 Software Engineer trainee at [Levty](https://levty.com/br)
 - 👩🏻‍🎓 Systems Engineering undergradute at [UFMG](https://ufmg.br)
 
 [![renatanesio's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatanesio&show_icons=true&theme=tokyonight)](https://github.com/renatanesio)
