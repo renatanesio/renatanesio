@@ -3,7 +3,7 @@
 ## 👩🏻‍💻 About Me
 
 - 💻 Software Engineer trainee at [Levty](https://levty.com/br)
-- 👩🏻‍🎓 Systems Engineering undergradute at [UFMG](https://ufmg.br)
+- 👩🏻‍🎓 Systems Engineer by [UFMG](https://ufmg.br)
 
 [![renatanesio's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatanesio&show_icons=true&theme=tokyonight)](https://github.com/renatanesio)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatanesio&layout=compact&theme=tokyonight)](https://github.com/renatanesio)
