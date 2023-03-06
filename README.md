@@ -2,7 +2,7 @@
 
 ## 👩🏻‍💻 About Me
 
-- 💻 Software Engineer trainee at [Levty](https://levty.com/br)
+- 💻 Software Engineer at [Levty](https://levty.com/br)
 - 👩🏻‍🎓 Systems Engineer by [UFMG](https://ufmg.br)
 
 [![renatanesio's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatanesio&show_icons=true&theme=tokyonight)](https://github.com/renatanesio)
