@@ -5,7 +5,9 @@
 - 💻 Software Engineer at [Levty](https://levty.com/br)
 - 👩🏻‍🎓 Systems Engineer by [UFMG](https://ufmg.br)
 
-[![renatanesio's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatanesio&show_icons=true&theme=tokyonight)](https://github.com/renatanesio)
+
+
+![renatanesio's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatanesio&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatanesio&layout=compact&theme=tokyonight)](https://github.com/renatanesio)
 
 [![renatanesio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=renatanesio&layout=compact&theme=tokyonight)](https://wakatime.com/@renatanesio)
